@@ -1,1 +1,1 @@
-# projectritu
+I have taken share price of HDFC, ICICI, Axis, SBI, KotakMahindra, YES, & Pnb bank for last 3 years(daily share price[closing price]) and calculated the upper limit,lower limit and the mean share price of all the banks and found out buy-sell dates and stock price by bollinger graph , buy-sell dates and stock price by rsv graph & buy-sell dates and stock price by bollinger graph & rsv graph together from 20 sept 2015 to 20 sept 2018.
